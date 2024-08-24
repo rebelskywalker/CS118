@@ -1,0 +1,11 @@
+Name: Chris Baker
+UID: 105180929
+
+#Sources
+#Piazza, youtube getaddrinfo videos, man pages, documentation on sockets/getaddr
+
+#The program is mean to send a GET REQUEST with -a and report server response
+#Using -c only reports the GET REQUEST. optional option. -a is mandatory option
+
+#I ran the inputs with -a and -c and had them print appropriate answers
+#Matching the piazza post and can be shown via emails with TA Eric
